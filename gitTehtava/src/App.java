@@ -4,6 +4,9 @@
 
 public class App {
     public static void main(String[] args) throws Exception {
+        
+        System.out.println("*********************************");
+        
         // Calls the method with numbers.
         checkBigger(9, 5);
     }
